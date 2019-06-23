@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter id="svg_4_blur">
+   <feGaussianBlur stdDeviation="0.2"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" filter="url(#svg_4_blur)" font-family="Sans-serif" font-size="39" font-style="normal" font-weight="bold" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(5.11023 0 0 5.88767 -661.905 -799.47)" x="191.5688" xml:space="preserve" y="189.20103">AAVH</text>
+ </g>
+</svg>
